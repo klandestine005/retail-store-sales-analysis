@@ -35,5 +35,6 @@ This project analyzes retail sales data from 2022 to 2024 to identify sales tren
 - Implement loyalty programs to increase customer retention and lifetime value.
 
 ## Dashboard
-<img width="600" height="500" alt="Retail Store Analysis Dashboard" src="https://github.com/user-attachments/assets/fa1b209d-352e-4ff1-8214-4b8ff12e3b7a" />
+<img width="1200" height="1000" alt="Retail Store Analysis Dashboard (1)" src="https://github.com/user-attachments/assets/755c5ef3-3ada-424e-8bae-e9136e3577b8" />
+
 
