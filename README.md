@@ -33,3 +33,7 @@ This project analyzes retail sales data from 2022 to 2024 to identify sales tren
 - Prioritize inventory and marketing for high-performing product categories.
 - Continue investing in digital marketing to strengthen online sales.
 - Implement loyalty programs to increase customer retention and lifetime value.
+
+## Dashboard
+<img width="600" height="500" alt="Retail Store Analysis Dashboard" src="https://github.com/user-attachments/assets/fa1b209d-352e-4ff1-8214-4b8ff12e3b7a" />
+
